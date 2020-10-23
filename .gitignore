@@ -1,0 +1,16 @@
+*~
+*.pyc
+/backups/*
+/confs/*
+*.log
+*.sqlite
+*.swp
+*.db
+*.sql
+*.dump
+__pycache__
+.pytest_cache
+.coverage
+.vagrant
+.cache
+
